@@ -1,5 +1,5 @@
 .navbar-brand {
-  width: 100%;
+  width: auto;
   display: flex;
   align-items: center;
   .navLogo {
@@ -9,7 +9,7 @@
   }
   .navBarName {
     text-transform: uppercase;
-    font-size: 1.2rem;
+    font-size: 0.85rem;
   }
 }
 
